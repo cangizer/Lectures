@@ -1,4 +1,4 @@
 print ("hello")
 
 r = 5
-print (r)
+print (r*2)
